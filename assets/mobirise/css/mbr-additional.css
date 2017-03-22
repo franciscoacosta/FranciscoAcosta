@@ -1571,3 +1571,85 @@ h6,
 #contacts4-36 STRONG {
   color: #ffffff;
 }
+
+#ext_menu-3d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3d .navbar-caption {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+#ext_menu-3d .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3d .close-icon::before,
+#ext_menu-3d .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3d .link,
+#ext_menu-3d .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-3d .link {
+  font-size: 0.85rem;
+}
+#ext_menu-3d .dropdown-item,
+#ext_menu-3d .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#ext_menu-3d .link:hover,
+#ext_menu-3d .dropdown-item:hover,
+#ext_menu-3d .link:focus,
+#ext_menu-3d .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-3d .link[aria-expanded="true"],
+#ext_menu-3d .dropdown-menu {
+  background: #080808;
+}
+#ext_menu-3d .nav-dropdown-sm .link:focus,
+#ext_menu-3d .nav-dropdown-sm .link:hover,
+#ext_menu-3d .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3d .nav-dropdown-sm .dropdown-item:hover {
+  background: #19191b!important;
+}
+#ext_menu-3d .navbar,
+#ext_menu-3d .nav-dropdown-sm,
+#ext_menu-3d .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3d .nav-dropdown-sm .dropdown-menu {
+  background: #202123;
+}
+#ext_menu-3d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3d .bg-color.transparent.opened .link:hover,
+#ext_menu-3d .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-3d .link[aria-expanded="true"],
+#ext_menu-3d .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header3-3h .mbr-section-title,
+#header3-3h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3h H3 {
+  color: #ffffff;
+}
+#header3-3i .mbr-section-title,
+#header3-3i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3j .mbr-section-title,
+#header3-3j .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts4-3e STRONG {
+  color: #ffffff;
+}
